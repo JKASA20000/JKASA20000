@@ -16,9 +16,8 @@
     <td>
       <h1>Hola, soy <strong>asa</strong></h1>
       <p>
-        💻 Desarrollador web, backend y Android.<br />
-        🚀 Trabajo con <strong>PHP | Python | Node.js | MySQL | JavaScript | Kotlin</strong>.<br />
-        📚 Aprendiendo <strong>React, TypeScript y PostgreSQL</strong>.<br />
+        🚀 Trabajo con Python<br />
+        <br />
         🎯 Objetivo: consolidarme como desarrollador full-stack y crear proyectos que se usen de verdad.
       </p>
     </td>
@@ -41,7 +40,7 @@
 </p>
 
 <p align="center">
-  <sub><b>Web</b> HTML &nbsp;|&nbsp; <b>Backend</b> Python &nbsp;|&nbsp; <b>Mobile</b> &nbsp;|&nbsp; <b>DB</b> &nbsp;|&nbsp; <b>Tools</b> GitHub · VS Code </sub>
+  <sub><b>Web</b> HTML &nbsp;|&nbsp; </b> Python &nbsp;|&nbsp; <b></b> &nbsp;&nbsp;|&nbsp; </b> GitHub · VS Code </sub>
 </p>
 
 ---
